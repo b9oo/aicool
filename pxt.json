@@ -1,0 +1,16 @@
+{
+    "name": "utils",
+    "description": "Handy utilities for MakeCode Arcade games: sprite helpers, timers, random, and more.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "utils.ts"
+    ],
+    "icon": "./icon.png",
+    "targetVersions": {
+        "arcade": "1.0.0"
+    }
+}
